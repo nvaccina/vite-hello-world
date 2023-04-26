@@ -8,7 +8,7 @@ export default {
 
 <template>
   <div>
-    <img src="src\assets\vite_img.png" alt="">
+    <img src="..\assets\vite_img.png" alt="Vite Jumbotron">
   </div>
 </template>
 
